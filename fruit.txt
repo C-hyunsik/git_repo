@@ -1,8 +1,7 @@
-
 apple
 banana
 pear
 peach
 grape
-strawberry
-
+melon
+orange
